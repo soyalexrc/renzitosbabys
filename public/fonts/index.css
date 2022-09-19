@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    font-display: swap;
+    src: local("Roboto-Regular"),
+    url("Roboto-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    font-style: normal;
+    font-display: swap;
+    src: local("Roboto-Bold"),
+    url("Roboto-Bold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    font-style: normal;
+    font-display: swap;
+    src: local("Roboto-Black"),
+    url("Roboto-Black.ttf") format("opentype");
+}
+
+
+/* vietnam */
+
+@font-face {
+    font-family: "BeVietnam-Regular";
+    font-style: normal;
+    font-display: swap;
+    src: local("BeVietnam-Regular"),
+    url("BeVietnam-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "BeVietnam-SemiBold";
+    font-style: normal;
+    font-display: swap;
+    src: local("BeVietnam-SemiBold"),
+    url("BeVietnam-SemiBold.ttf") format("opentype");
+}
+@font-face {
+    font-family: "BeVietnam-Medium";
+    font-style: normal;
+    font-display: swap;
+    src: local("BeVietnam-Medium"),
+    url("BeVietnam-Medium.ttf") format("opentype");
+}
